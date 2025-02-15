@@ -3,7 +3,8 @@
 Hi! I’m [DALAL ALFARES], an aspiring cybersecurity professional passionate about protecting data and mitigating cyber threats. This portfolio showcases my professional statement and future projects.
 
 ## Professional Statement
-[Click here to view my professional statement.](Professional_Statement.pdf)
+[D.ALFARES_Professional_Statement.pdf](https://github.com/user-attachments/files/18813001/D.ALFARES_Professional_Statement.pdf)
+
 
 ## About Me
 - **Skills**: Networking, problem-solving, ethical hacking
