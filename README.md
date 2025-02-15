@@ -11,5 +11,11 @@ Hi! I’m [DALAL ALFARES], an aspiring cybersecurity professional passionate abo
 - **Interests**: Protecting data, vulnerability assessment, incident response
 - **Goals**: To become a Security Analyst or Penetration Tester
 
+## Projects
+( nothing yet) 
+
+## Certifications
+- Currently pursuing:cybersecurity bachelor degree
+
 ## Contact Me
 - Email: alfaresdalal786@gmail.com
